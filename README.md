@@ -62,6 +62,6 @@ To run the Contact Management Application, follow these steps to set it up on yo
 Contributions are welcome! If you have suggestions or improvements, please feel free to create a pull request or open an issue.
 
 ## Contact
-For any inquiries or further information, please contact me atnknidhii@gmail.com
+For any inquiries or further information, please contact me at nknidhii05@gmail.com
 
 
